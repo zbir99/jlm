@@ -1,3 +1,6 @@
+/* Styles de base pour l'application */
+/* Aucun style spécifique n'est nécessaire car nous utilisons Tailwind CSS via CDN */
+
 .App {
   text-align: center;
 }
